@@ -1,7 +1,7 @@
 +++
 title = "Unterwegs im Altersheim"
 date = "2022-11-28"
-draft = true
+draft = false
 pinned = false
 tags = ["Altersheim", "Pflege", "Reportage"]
 +++
