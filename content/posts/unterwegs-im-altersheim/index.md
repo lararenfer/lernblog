@@ -4,6 +4,7 @@ date = "2022-11-28"
 draft = false
 pinned = false
 tags = ["Altersheim", "Pflege", "Reportage"]
+image = "rsz_1rsz_320221006_141659.jpg"
 +++
 {{<lead>}}
 
