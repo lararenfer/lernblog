@@ -18,15 +18,13 @@ Es ist 12:45 Uhr an einem Donnerstagnachmittag. Ich und meine Kollegin Enya steh
 Nach einer kurzen Vorstellungsrunde beginnt der Rapport. Das Team bespricht, was am Morgen passiert ist und wie der Nachmittag aussehen wird. Frau Amacher (Name geändert) habe noch nichts gegessen, wenn möglich, solle das noch nachgeholt werden. 10 Minuten später machen sich alle auf, mit ihrer Arbeit zu beginnen. Wir begleiten Lea Läderach zum Medikamentenraum, wo sie die Medikamente der Bewohnerinnen und Bewohner für den Abend herrichtet. Auffallend ist die Menge. Fast alle Bewohnerinnen und Bewohner bekommen irgendein Medikament. Das sei eigentlich normal, erklärt uns Lea Läderach. Personen, die im Altersheim leben, sind in der Regel nicht mehr in der Lage, für sich selbst zu sorgen. Oft aufgrund von gesundheitlichen Problemen, die dann medikamentös behandelt werden. Beruhigungsmittel wie Zoldorm, Quetiapin und Relaxane werden häufig verabreicht. Aber nicht um die Bewohnerinnen und Bewohner ruhigzustellen, betont Lea Läderach. Ältere Personen hätten häufig den Drang mehr zu machen, als für sie gut ist. Jemand der geistig noch fit ist, dessen Körper aber nicht mehr so leistungsfähig ist, hat oft das Bedürfnis nach mehr Aktivitäten als der Körper verträgt. Die Beruhigungsmittel dienen dazu, sie vor Überanstrengung zu schützen und ihnen abends das Einschlafen zu erleichtern.\
 Solche gängigen Medikamente muss Lea Läderach heute nicht mehr selbst richten. Sie werden bereits dosiert und sortiert aus der Apotheke geliefert. Lediglich stärkere Beruhigungs- und Schmerzmittel wie Palexia Ret und flüssige Medizin müssen noch von Hand sortiert und dosiert werden.
 
- 
-
-
-
-
+{{<box title="Lea Läderach und die Alters- und Pflegeheim Landblick AG">}}
 
 Lea Läderach (25) ist Abteilungsleiterin im Alters- und Pflegeheim Landblick in Beitenwil. Als solche koordiniert sie die Mitarbeiterinnen des Hauses A. Das sind 21 Frauen, darunter lernende und ausgebildete Fachfrauen Gesundheit (FaGe), Betagtenbetreuerinnen, Pflegeassistentinnen, Assistenzpersonal und eine Praktikantin. Lea Läderach hat im Alters- und Pflegeheim Sunneguet in Seftigen die Lehre als FaGe gemacht und arbeitet seither in der Pflege. Sie hat Praktika in der Spitex Wichtrach und im Salem Spital absolviert. Nach dem Abschluss der Ausbildung zur diplomierten Pflegefachfrau kam sie zur Landblick AG. Sie arbeitete zwei Jahre in Grosshöchstetten, seit Oktober 2022 arbeitet sie als Abteilungsleiterin in Beitenwil.
 
 Zur Landblick AG gehören zwei Alters- und Pflegeheime an den Standorten Grosshöchstetten und Beitenwil. Die Heime umfassen insgesamt 122 Einzelbetten und 160 Mitarbeiter*innen. Die schönen Aussichten auf das Kiesen- und Aaretal geben den Heimen ihren Namen. Der Standort Beitenwil hat zwei Häuser. Im Haus A, dem Teil des Heimes den wir besucht haben, leben auf zwei Stockwerken 25 Menschen.
+
+{{</box>}}
 
 
 
@@ -60,8 +58,8 @@ Die Lehrtochter auf der Abteilung bekam die Aufgabe zu versuchen, Frau Amacher (
 Der Umgang mit den Bewohnerinnen und Bewohnern ist nur eine der vielen Herausforderungen, denen das Pflegepersonal täglich gegenübersteht. Der Fachkräftemangel in der Pflege ist momentan gross. Das Haus A, das Lea Läderach leitet, ist zurzeit nicht unterbesetzt, aber mit Krankheitsausfällen wird die Abdeckung der Pflegeschichten dennoch knapp. So kommt es, dass Lehrlinge und Praktikant\*innen zum Teil die volle Verantwortung übernehmen müssen. Frau Läderach selbst muss häufig Überstunden machen, um Personalausfälle auszugleichen. Diese Überstunden sind unbezahlt, aber das Pflegepersonal kann bei Schichtende nicht einfach nach Hause gehen, wenn zu wenige Pfleger\*innen da sind, die Bewohnerinnen und Bewohner zählen schliesslich auf sie.\
 Als die Aktivierung vorbei ist, können wir diesen Personalmangel selbst miterleben. Mehrere Dutzend Bewohner*innen wollen gleichzeitig in ihre Zimmer zurück. Einige können das selbstständig, aber die meisten müssen begleitet werden. Da dazu nicht genügend Pflegerinnen da sind, bekommen wir zwei auch je einen Rollstuhl in die Hand gedrückt. Die eine Bewohnerin ist aber dement und weiss daher nicht, in welchem Haus oder Zimmer sie wohnt. Wir finden uns dann mit zwei Bewohnerinnen im Lift wieder und wissen nicht recht wie weiter. Zum Glück kennt die zweite Bewohnerin ihr Zimmer und wir teilen uns auf, damit ich sie dorthin bringen kann, während Enya bei der anderen Bewohnerin bleibt. Ich begegne Lea Läderach und sie kann uns sagen, wohin wir die Bewohnerin bringen sollen.
 
-> «Eine der grössten Herausforderungen in der Pflege sind die Angehörigen.»*\
-> Lea Läderach*
+> «Eine der grössten Herausforderungen in der Pflege sind die Angehörigen."\
+> *Lea Läderach*
 
 Trotz der Schwierigkeiten im Pflegealltag ist es wichtig, dass die Bewohnerinnen und Bewohner es nicht mitbekommen, wenn das Pflegepersonal gestresst oder das Team unterbesetzt ist. Natürlich gibt es auch Pflegerinnen, die weniger gut mit Stress umgehen können, und das merken die Bewohner*innen und läuten dann häufig noch dreimal mehr. Deswegen sagt Frau Läderach ihren Angestellten in solchen Fällen: «Hey, steht zuerst einmal vor der Türe, atmet tief durch und geht dann frisch in dieses Zimmer rein.»\
 Eine weitere grosse Herausforderung sei der Umgang mit den Angehörigen der Bewohner*innen, sagt Frau Läderach. «Häufig haben die Angehörigen ihre Eltern oder Bekannten noch zuhause gepflegt, waren dann aber mit der Situation überfordert.» Die Eltern kämen dann ins Altersheim und das Abgeben der Pflege an das Pflegepersonal, den Fachkräften zu vertrauen, falle sehr Vielen sehr schwer.
@@ -81,18 +79,11 @@ Genau das wollte die Pflegeinitiative ändern. Sie wurde letzten Herbst vom Stim
 Die Schweiz braucht ein funktionierendes Gesundheitssystem mit gut ausgebildeten Fachkräften. Die Situation muss verbessert werden, niemand hat etwas davon, wenn Menschen im Alter nicht mehr richtig betreut werden können, gerade vor dem Hintergrund der älter werdenden Gesellschaft.  \
 Wenn Menschen im Alter Hilfe brauchen, ist das Altersheim nicht die einzige Möglichkeit. Die Spitex sei eine sehr gute Organisation und ihre Vision, die Menschen zu Hause zu betreuen, sei super, so Lea Läderach. Allerdings könne auch die Spitex ab einem gewissen Zeitpunkt die Pflege zu Hause nicht mehr gewährleisten. Deshalb sollten die Altersheime und die Spitex eigentlich Hand in Hand zusammenarbeiten.
 
+![Die Aussicht vom Balkon des Hauses A. Foto: Enya Hebeisen](rsz_20221006_145302.jpg)
 
-</v:shape><!\[endif]--><!--\[if !vml]-->![A picture containing outdoor, sky, tree, building
-
-Description automatically generated](file:///C:/Users/larar/AppData/Local/Temp/msohtmlclip1/01/clip_image010.jpg)<!--\[endif]-->
-
-Die Aussicht vom Balkon des Hauses A.\
-Foto: Enya Hebeisen
 
 Sobald alle Bewohnerinnen und Bewohner, die an der Aktivierung teilnahmen, wieder in ihren Zimmern sind, kehrt auf der Abteilung Ruhe ein. Es ist eine gemütliche und zufriedene Atmosphäre. Die letzte halbe Stunde unseres Besuches verläuft – abgesehen von einer kurzen Kaffeepause – ereignislos. Wir verlassen die Anlage mit einem guten Gefühl.
 
 Die Bewohnerinnen und Bewohner des Hauses A leben in gemütlichen Zimmern mit schöner Aussicht. Das Pflegepersonal ist freundlich und hat immer etwas Zeit übrig, um mit den Bewohnerinnen und Bewohnern zu reden. Auch die Hauskatze Simba, die selbst nicht mehr die Jüngste ist, hilft mit, eine Atmosphäre der Ruhe und Behaglichkeit zu schaffen.
 
- 
-
-Text: Lara Renfer
+ Text: Lara Renfer
