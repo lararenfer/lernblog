@@ -34,6 +34,8 @@ Zur Landblick AG gehören zwei Alters- und Pflegeheime an den Standorten Grossh�
 
  
 
+![Foto: Lara Renfer](rsz_20220916_142852.jpg "Lea Läderach mit Hauskatze Simba")
+
 
 </v:shape><!\[endif]--><!--\[if !vml]-->![A person holding a cat
 
