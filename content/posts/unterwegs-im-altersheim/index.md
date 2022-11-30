@@ -26,13 +26,7 @@ Zur Landblick AG gehören zwei Alters- und Pflegeheime an den Standorten Grossh�
 
 {{</box>}}
 
-
-
-
-
- 
-
-![Lea Läderach mit Hauskatze Simba. Foto: Lara Renfer](rsz_20220916_142852.jpg "Lea Läderach mit Hauskatze Simba")
+![Lea Läderach mit Hauskatze Simba. Foto: Lara Renfer](rsz_120220916_142852.jpg "Lea Läderach mit Hauskatze Simba")
 
 
 
@@ -86,4 +80,4 @@ Sobald alle Bewohnerinnen und Bewohner, die an der Aktivierung teilnahmen, wiede
 
 Die Bewohnerinnen und Bewohner des Hauses A leben in gemütlichen Zimmern mit schöner Aussicht. Das Pflegepersonal ist freundlich und hat immer etwas Zeit übrig, um mit den Bewohnerinnen und Bewohnern zu reden. Auch die Hauskatze Simba, die selbst nicht mehr die Jüngste ist, hilft mit, eine Atmosphäre der Ruhe und Behaglichkeit zu schaffen.
 
- Text: Lara Renfer
+Text: Lara Renfer
