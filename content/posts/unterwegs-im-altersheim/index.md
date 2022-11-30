@@ -22,19 +22,19 @@ Solche gängigen Medikamente muss Lea Läderach heute nicht mehr selbst richten.
 
 
 
-{{<box title="Lea Läderach und das Alters- und Pflegeheim Landblick">}}
+
 
 Lea Läderach (25) ist Abteilungsleiterin im Alters- und Pflegeheim Landblick in Beitenwil. Als solche koordiniert sie die Mitarbeiterinnen des Hauses A. Das sind 21 Frauen, darunter lernende und ausgebildete Fachfrauen Gesundheit (FaGe), Betagtenbetreuerinnen, Pflegeassistentinnen, Assistenzpersonal und eine Praktikantin. Lea Läderach hat im Alters- und Pflegeheim Sunneguet in Seftigen die Lehre als FaGe gemacht und arbeitet seither in der Pflege. Sie hat Praktika in der Spitex Wichtrach und im Salem Spital absolviert. Nach dem Abschluss der Ausbildung zur diplomierten Pflegefachfrau kam sie zur Landblick AG. Sie arbeitete zwei Jahre in Grosshöchstetten, seit Oktober 2022 arbeitet sie als Abteilungsleiterin in Beitenwil.
 
 Zur Landblick AG gehören zwei Alters- und Pflegeheime an den Standorten Grosshöchstetten und Beitenwil. Die Heime umfassen insgesamt 122 Einzelbetten und 160 Mitarbeiter*innen. Die schönen Aussichten auf das Kiesen- und Aaretal geben den Heimen ihren Namen. Der Standort Beitenwil hat zwei Häuser. Im Haus A, dem Teil des Heimes den wir besucht haben, leben auf zwei Stockwerken 25 Menschen.
 
-{{</box>}}
+
 
 
 
  
 
-![Foto: Lara Renfer](rsz_20220916_142852.jpg "Lea Läderach mit Hauskatze Simba")
+![Lea Läderach mit Hauskatze Simba. Foto: Lara Renfer](rsz_20220916_142852.jpg "Lea Läderach mit Hauskatze Simba")
 
 
 
@@ -43,7 +43,7 @@ Um 14:00 Uhr startet die Aktivierung. Heute ist das ein Konzert eines Schwyzerö
 Um 17:30 gibt es Abendessen. Dafür kommen die meisten Bewohner\*innen in den Speisesaal. Viele brauchen dabei Hilfe, manche auch beim Essen. Der Spätdienst begleitet die Bewohner\*innen zurück in ihre Zimmer und verteilt die Medikamente. «Dann gehen die meisten Bewohner*innen früh ins Bett, also ab 18:15 Uhr», erzählt Frau Läderach.\
 Morgens, wenn die Bewohnerinnen und Bewohner wieder aufstehen, werden sie je nach Bedarf gewaschen und gepflegt.
 
-![Foto: Lara Renfer](rsz_120221006_141541.jpg "Das Zimmer einer Bewohnerin")
+![Das Zimmer einer Bewohnerin. Foto: Lara Renfer](rsz_120221006_141541.jpg "Das Zimmer einer Bewohnerin")
 
 
 
@@ -52,13 +52,7 @@ Wir sind mit Lea Läderach unterwegs, um die Bewohner*innen zu fragen, ob sie an
 Der Pflegeberuf ist sicher nichts für Ungeduldige. Auch als wir etwas später einen anderen Bewohner besuchen, der uns auf die Frage, ob er ans Konzert wolle, mit Geschichten über seine Familie antwortet, reagiert die Pflegerin äussert geduldig und mit Verständnis. Die Pflegerinnen des Hauses A sind sehr einfühlsam und nehmen sich Zeit, auf die Bewohnerinnen und Bewohner einzugehen.\
 Die Lehrtochter auf der Abteilung bekam die Aufgabe zu versuchen, Frau Amacher (die, wie im Rapport besprochen, noch nichts gegessen hat) doch noch zum Essen zu bewegen. Allerdings ist diese nur halbwach und kaum ansprechbar. Ihr muss das Essen löffelweise in den Mund geschoben werden. Frau Amacher kann noch selbst schlucken, allerdings nickt sie zwischen zwei Bissen immer wieder ein. Es benötigt unglaubliche Geduld und auch viel Verständnis für die Situation der Bewohnerin, um solch eine Aufgabe erledigen zu können.  
 
-
-</v:shape><!\[endif]--><!--\[if !vml]-->![A picture containing wall, indoor
-
-Description automatically generated](file:///C:/Users/larar/AppData/Local/Temp/msohtmlclip1/01/clip_image006.jpg)<!--\[endif]-->
-
-Enya Hebeisen stösst eine Bewohnerin.\
-Foto: Lara Renfer
+![Enya stösst eine Bewohnerin. Foto: Lara Renfer](rsz_320221006_141659.jpg)
 
  
 
@@ -70,14 +64,11 @@ Als die Aktivierung vorbei ist, können wir diesen Personalmangel selbst miterle
 > Lea Läderach*
 
 Trotz der Schwierigkeiten im Pflegealltag ist es wichtig, dass die Bewohnerinnen und Bewohner es nicht mitbekommen, wenn das Pflegepersonal gestresst oder das Team unterbesetzt ist. Natürlich gibt es auch Pflegerinnen, die weniger gut mit Stress umgehen können, und das merken die Bewohner*innen und läuten dann häufig noch dreimal mehr. Deswegen sagt Frau Läderach ihren Angestellten in solchen Fällen: «Hey, steht zuerst einmal vor der Türe, atmet tief durch und geht dann frisch in dieses Zimmer rein.»\
-Eine weitere grosse Herausforderung sei der Umgang mit den Angehörigen der Bewohner*innen, sagt Frau Läderach. «Häufig haben die Angehörigen ihre Eltern oder Bekannten noch zuhause gepflegt, waren dann aber mit der Situation überfordert.» Die Eltern kämen dann ins Altersheim und das Abgeben der Pflege an das Pflegepersonal, den Fachkräften zu vertrauen, falle sehr Vielen sehr schwer.\
+Eine weitere grosse Herausforderung sei der Umgang mit den Angehörigen der Bewohner*innen, sagt Frau Läderach. «Häufig haben die Angehörigen ihre Eltern oder Bekannten noch zuhause gepflegt, waren dann aber mit der Situation überfordert.» Die Eltern kämen dann ins Altersheim und das Abgeben der Pflege an das Pflegepersonal, den Fachkräften zu vertrauen, falle sehr Vielen sehr schwer.
 
-</v:shape><!\[endif]--><!--\[if !vml]-->![A person sitting at a table
+![Lara Renfer im Aufenthaltsraum des 2. Stockes. Foto: Enya Hebeisen.](rsz_20221006_145227.jpg)
 
-Description automatically generated with medium confidence](file:///C:/Users/larar/AppData/Local/Temp/msohtmlclip1/01/clip_image008.jpg)<!--\[endif]-->
 
-Lara Renfer im Aufenthaltsraum des 2. Stockes.\
-Foto: Enya Hebeisen
 
 **Die Schwierigkeiten der Abteilungsleitung**\
 «Die Pflege ist ein sehr anstrengender Beruf. Körperlich, aber auch psychisch. Die Pflege muss rund um die Uhr gewährleistet sein, und die Entlöhnung ist nicht extrem hoch.» Deswegen ist es nicht so verlockend, in der Pflege zu arbeiten, gibt Lea Läderach zu bedenken. Man muss Menschen helfen und sie pflegen wollen. Denn, «reich kann man in der Pflege nicht werden.» Die suboptimalen Arbeitsbedingungen gekoppelt mit der relativ tiefen Entlöhnung führen dazu, dass viele den Pflegeberuf verlassen. Dies verschärft wiederum den Fachkräftemangel.
