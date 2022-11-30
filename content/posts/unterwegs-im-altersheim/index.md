@@ -28,7 +28,9 @@ Lea Läderach (25) ist Abteilungsleiterin im Alters- und Pflegeheim Landblick in
 
 Zur Landblick AG gehören zwei Alters- und Pflegeheime an den Standorten Grosshöchstetten und Beitenwil. Die Heime umfassen insgesamt 122 Einzelbetten und 160 Mitarbeiter*innen. Die schönen Aussichten auf das Kiesen- und Aaretal geben den Heimen ihren Namen. Der Standort Beitenwil hat zwei Häuser. Im Haus A, dem Teil des Heimes den wir besucht haben, leben auf zwei Stockwerken 25 Menschen.
 
- {{</box>}}
+{{</box>}}
+
+
 
  
 
