@@ -5,6 +5,7 @@ draft = false
 pinned = false
 tags = ["Altersheim", "Pflege", "Reportage"]
 image = "rsz_1rsz_320221006_141659.jpg"
+description = "Wir begleiten Lea Läderach einen Nachmittag lang in ihrem Arbeitsalltag als diplomierte Pflegefachfrau und Abteilungsleiterin."
 +++
 {{<lead>}}\
 Wir begleiten Lea Läderach einen Nachmittag lang in ihrem Arbeitsalltag als diplomierte Pflegefachfrau und Abteilungsleiterin. Ein Beruf, der viel Geduld und Empathie erfordert. Denn zu ihren Aufgaben gehört nicht nur die Pflege der Bewohnerinnen und Bewohner, sondern auch die Führung und Betreuung ihrer 21 Mitarbeiterinnen.{{</lead>}}
