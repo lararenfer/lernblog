@@ -7,7 +7,7 @@ tags = ["Altersheim", "Pflege", "Reportage"]
 image = "rsz_1rsz_320221006_141659.jpg"
 +++
 {{<lead>}}\
-Wir begleiten Lea Läderach einen Nachmittag lang in ihrem Arbeitsalltag als diplomierte Pflegefachfrau und Abteilungsleiterin. Ein Beruf, der viel Geduld und Empathie erfordert. Denn zu ihren Aufgaben gehört nicht nur die Pflege der Bewohnerinnen und Bewohner, sondern auch die Führung und Betreuung ihrer 21 Mitarbeiterinnen.{{<lead>}}
+Wir begleiten Lea Läderach einen Nachmittag lang in ihrem Arbeitsalltag als diplomierte Pflegefachfrau und Abteilungsleiterin. Ein Beruf, der viel Geduld und Empathie erfordert. Denn zu ihren Aufgaben gehört nicht nur die Pflege der Bewohnerinnen und Bewohner, sondern auch die Führung und Betreuung ihrer 21 Mitarbeiterinnen.{{</lead>}}
 
 Es ist 12:45 Uhr an einem Donnerstagnachmittag. Ich und meine Kollegin Enya stehen vor dem Alters- und Pflegeheim Landblick in Beitenwil. Von aussen recht unscheinbar, ist im Inneren alles ruhig und einladend. Die Abteilungsleiterin Lea Läderach, die uns am Eingang empfängt, ist herzlich. Wir werden in die Garderoben geführt, wo wir unsere Arbeitskleidung bekommen: hellgrüne Hosen und ein weiss-grüner Kasack.
 
