@@ -6,11 +6,8 @@ pinned = false
 tags = ["Altersheim", "Pflege", "Reportage"]
 image = "rsz_1rsz_320221006_141659.jpg"
 +++
-{{<lead>}}
-
-Wir begleiten Lea Läderach einen Nachmittag lang in ihrem Arbeitsalltag als diplomierte Pflegefachfrau und Abteilungsleiterin. Ein Beruf, der viel Geduld und Empathie erfordert. Denn zu ihren Aufgaben gehört nicht nur die Pflege der Bewohnerinnen und Bewohner, sondern auch die Führung und Betreuung ihrer 21 Mitarbeiterinnen.
-
-{{<lead>}}
+{{<lead>}}\
+Wir begleiten Lea Läderach einen Nachmittag lang in ihrem Arbeitsalltag als diplomierte Pflegefachfrau und Abteilungsleiterin. Ein Beruf, der viel Geduld und Empathie erfordert. Denn zu ihren Aufgaben gehört nicht nur die Pflege der Bewohnerinnen und Bewohner, sondern auch die Führung und Betreuung ihrer 21 Mitarbeiterinnen.{{<lead>}}
 
 Es ist 12:45 Uhr an einem Donnerstagnachmittag. Ich und meine Kollegin Enya stehen vor dem Alters- und Pflegeheim Landblick in Beitenwil. Von aussen recht unscheinbar, ist im Inneren alles ruhig und einladend. Die Abteilungsleiterin Lea Läderach, die uns am Eingang empfängt, ist herzlich. Wir werden in die Garderoben geführt, wo wir unsere Arbeitskleidung bekommen: hellgrüne Hosen und ein weiss-grüner Kasack.
 
@@ -18,12 +15,10 @@ Es ist 12:45 Uhr an einem Donnerstagnachmittag. Ich und meine Kollegin Enya steh
 Nach einer kurzen Vorstellungsrunde beginnt der Rapport. Das Team bespricht, was am Morgen passiert ist und wie der Nachmittag aussehen wird. Frau Amacher (Name geändert) habe noch nichts gegessen, wenn möglich, solle das noch nachgeholt werden. 10 Minuten später machen sich alle auf, mit ihrer Arbeit zu beginnen. Wir begleiten Lea Läderach zum Medikamentenraum, wo sie die Medikamente der Bewohnerinnen und Bewohner für den Abend herrichtet. Auffallend ist die Menge. Fast alle Bewohnerinnen und Bewohner bekommen irgendein Medikament. Das sei eigentlich normal, erklärt uns Lea Läderach. Personen, die im Altersheim leben, sind in der Regel nicht mehr in der Lage, für sich selbst zu sorgen. Oft aufgrund von gesundheitlichen Problemen, die dann medikamentös behandelt werden. Beruhigungsmittel wie Zoldorm, Quetiapin und Relaxane werden häufig verabreicht. Aber nicht um die Bewohnerinnen und Bewohner ruhigzustellen, betont Lea Läderach. Ältere Personen hätten häufig den Drang mehr zu machen, als für sie gut ist. Jemand der geistig noch fit ist, dessen Körper aber nicht mehr so leistungsfähig ist, hat oft das Bedürfnis nach mehr Aktivitäten als der Körper verträgt. Die Beruhigungsmittel dienen dazu, sie vor Überanstrengung zu schützen und ihnen abends das Einschlafen zu erleichtern.\
 Solche gängigen Medikamente muss Lea Läderach heute nicht mehr selbst richten. Sie werden bereits dosiert und sortiert aus der Apotheke geliefert. Lediglich stärkere Beruhigungs- und Schmerzmittel wie Palexia Ret und flüssige Medizin müssen noch von Hand sortiert und dosiert werden.
 
-{{<box title="Lea Läderach und die Alters- und Pflegeheim Landblick AG">}}
-
+{{<box title="Lea Läderach und die Alters- und Pflegeheim Landblick AG">}}\
 Lea Läderach (25) ist Abteilungsleiterin im Alters- und Pflegeheim Landblick in Beitenwil. Als solche koordiniert sie die Mitarbeiterinnen des Hauses A. Das sind 21 Frauen, darunter lernende und ausgebildete Fachfrauen Gesundheit (FaGe), Betagtenbetreuerinnen, Pflegeassistentinnen, Assistenzpersonal und eine Praktikantin. Lea Läderach hat im Alters- und Pflegeheim Sunneguet in Seftigen die Lehre als FaGe gemacht und arbeitet seither in der Pflege. Sie hat Praktika in der Spitex Wichtrach und im Salem Spital absolviert. Nach dem Abschluss der Ausbildung zur diplomierten Pflegefachfrau kam sie zur Landblick AG. Sie arbeitete zwei Jahre in Grosshöchstetten, seit Oktober 2022 arbeitet sie als Abteilungsleiterin in Beitenwil.
 
-Zur Landblick AG gehören zwei Alters- und Pflegeheime an den Standorten Grosshöchstetten und Beitenwil. Die Heime umfassen insgesamt 122 Einzelbetten und 160 Mitarbeiter*innen. Die schönen Aussichten auf das Kiesen- und Aaretal geben den Heimen ihren Namen. Der Standort Beitenwil hat zwei Häuser. Im Haus A, dem Teil des Heimes den wir besucht haben, leben auf zwei Stockwerken 25 Menschen.
-
+Zur Landblick AG gehören zwei Alters- und Pflegeheime an den Standorten Grosshöchstetten und Beitenwil. Die Heime umfassen insgesamt 122 Einzelbetten und 160 Mitarbeiter*innen. Die schönen Aussichten auf das Kiesen- und Aaretal geben den Heimen ihren Namen. Der Standort Beitenwil hat zwei Häuser. Im Haus A, dem Teil des Heimes den wir besucht haben, leben auf zwei Stockwerken 25 Menschen.\
 {{</box>}}
 
 ![Lea Läderach mit Hauskatze Simba. Foto: Lara Renfer](rsz_120220916_142852.jpg "Lea Läderach mit Hauskatze Simba")
