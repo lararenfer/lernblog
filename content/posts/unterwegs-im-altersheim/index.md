@@ -24,8 +24,6 @@ Zur Landblick AG gehören zwei Alters- und Pflegeheime an den Standorten Grossh�
 
 ![Lea Läderach mit Hauskatze Simba. Foto: Lara Renfer](rsz_120220916_142852.jpg "Lea Läderach mit Hauskatze Simba")
 
-
-
 **Die Tagesstruktur**\
 Um 14:00 Uhr startet die Aktivierung. Heute ist das ein Konzert eines Schwyzerörgeli-Trios. Damit die Bewohnerinnen und Bewohner auch alle rechtzeitig am Konzert sind, werden sie noch einmal gefragt, ob sie hingehen wollen. Wir bringen sie dann nach unten ins Aufenthaltszimmer. Manche muss man im Rollstuhl hinrollen, andere werden begleitet. Während des Konzertes ist es auf der Abteilung ruhig, die meisten Bewohner\*innen sind beschäftigt. Deswegen nutzt das Pflegepersonal diese Zeit, um beispielsweise einen Rollator zu putzen, oder den wenigen Bewohner\*innen, die nicht ans Konzert gegangen sind, Gesellschaft zu leisten. Es sei eigentlich schon normal, dass am Nachmittag so wenig los ist, sagt Lea Läderach. Am Morgen und Abend gebe es am meisten zu tun. Um 16:00 Uhr hat der Frühdienst Feierabend und wird vom Spätdienst abgelöst.\
 Um 17:30 gibt es Abendessen. Dafür kommen die meisten Bewohner\*innen in den Speisesaal. Viele brauchen dabei Hilfe, manche auch beim Essen. Der Spätdienst begleitet die Bewohner\*innen zurück in ihre Zimmer und verteilt die Medikamente. «Dann gehen die meisten Bewohner*innen früh ins Bett, also ab 18:15 Uhr», erzählt Frau Läderach.\
@@ -33,16 +31,12 @@ Morgens, wenn die Bewohnerinnen und Bewohner wieder aufstehen, werden sie je nac
 
 ![Das Zimmer einer Bewohnerin. Foto: Lara Renfer](rsz_120221006_141541.jpg "Das Zimmer einer Bewohnerin")
 
-
-
 **Der Umgang mit Bewohnerinnen und Bewohnern**\
 Wir sind mit Lea Läderach unterwegs, um die Bewohner*innen zu fragen, ob sie an der Aktivierung teilnehmen möchten. Uns fällt auf, wie viel Wert die Pflegerinnen auf das Wohlbefinden der Bewohnerinnen und Bewohner legen. Wir lernen Herrn Röthlisberger (Name geändert) kennen. Herr Röthlisberger ist stark schwerhörig. Um verstanden zu werden, muss Lea Läderach ihn regelrecht anschreien. Und selbst dann versteht er sie nur bedingt. Daher erklärt Lea Läderach ihm zwar mit lauter Stimme, aber trotzdem geduldig und freundlich, weshalb wir bei ihm sind.\
 Der Pflegeberuf ist sicher nichts für Ungeduldige. Auch als wir etwas später einen anderen Bewohner besuchen, der uns auf die Frage, ob er ans Konzert wolle, mit Geschichten über seine Familie antwortet, reagiert die Pflegerin äussert geduldig und mit Verständnis. Die Pflegerinnen des Hauses A sind sehr einfühlsam und nehmen sich Zeit, auf die Bewohnerinnen und Bewohner einzugehen.\
 Die Lehrtochter auf der Abteilung bekam die Aufgabe zu versuchen, Frau Amacher (die, wie im Rapport besprochen, noch nichts gegessen hat) doch noch zum Essen zu bewegen. Allerdings ist diese nur halbwach und kaum ansprechbar. Ihr muss das Essen löffelweise in den Mund geschoben werden. Frau Amacher kann noch selbst schlucken, allerdings nickt sie zwischen zwei Bissen immer wieder ein. Es benötigt unglaubliche Geduld und auch viel Verständnis für die Situation der Bewohnerin, um solch eine Aufgabe erledigen zu können.  
 
 ![Enya stösst eine Bewohnerin. Foto: Lara Renfer](rsz_320221006_141659.jpg)
-
- 
 
 **Die Herausforderungen der Pflege**\
 Der Umgang mit den Bewohnerinnen und Bewohnern ist nur eine der vielen Herausforderungen, denen das Pflegepersonal täglich gegenübersteht. Der Fachkräftemangel in der Pflege ist momentan gross. Das Haus A, das Lea Läderach leitet, ist zurzeit nicht unterbesetzt, aber mit Krankheitsausfällen wird die Abdeckung der Pflegeschichten dennoch knapp. So kommt es, dass Lehrlinge und Praktikant\*innen zum Teil die volle Verantwortung übernehmen müssen. Frau Läderach selbst muss häufig Überstunden machen, um Personalausfälle auszugleichen. Diese Überstunden sind unbezahlt, aber das Pflegepersonal kann bei Schichtende nicht einfach nach Hause gehen, wenn zu wenige Pfleger\*innen da sind, die Bewohnerinnen und Bewohner zählen schliesslich auf sie.\
@@ -56,8 +50,6 @@ Eine weitere grosse Herausforderung sei der Umgang mit den Angehörigen der Bewo
 
 ![Lara Renfer im Aufenthaltsraum des 2. Stockes. Foto: Enya Hebeisen.](rsz_20221006_145227.jpg)
 
-
-
 **Die Schwierigkeiten der Abteilungsleitung**\
 «Die Pflege ist ein sehr anstrengender Beruf. Körperlich, aber auch psychisch. Die Pflege muss rund um die Uhr gewährleistet sein, und die Entlöhnung ist nicht extrem hoch.» Deswegen ist es nicht so verlockend, in der Pflege zu arbeiten, gibt Lea Läderach zu bedenken. Man muss Menschen helfen und sie pflegen wollen. Denn, «reich kann man in der Pflege nicht werden.» Die suboptimalen Arbeitsbedingungen gekoppelt mit der relativ tiefen Entlöhnung führen dazu, dass viele den Pflegeberuf verlassen. Dies verschärft wiederum den Fachkräftemangel.
 
@@ -70,7 +62,6 @@ Die Schweiz braucht ein funktionierendes Gesundheitssystem mit gut ausgebildeten
 Wenn Menschen im Alter Hilfe brauchen, ist das Altersheim nicht die einzige Möglichkeit. Die Spitex sei eine sehr gute Organisation und ihre Vision, die Menschen zu Hause zu betreuen, sei super, so Lea Läderach. Allerdings könne auch die Spitex ab einem gewissen Zeitpunkt die Pflege zu Hause nicht mehr gewährleisten. Deshalb sollten die Altersheime und die Spitex eigentlich Hand in Hand zusammenarbeiten.
 
 ![Die Aussicht vom Balkon des Hauses A. Foto: Enya Hebeisen](rsz_20221006_145302.jpg)
-
 
 Sobald alle Bewohnerinnen und Bewohner, die an der Aktivierung teilnahmen, wieder in ihren Zimmern sind, kehrt auf der Abteilung Ruhe ein. Es ist eine gemütliche und zufriedene Atmosphäre. Die letzte halbe Stunde unseres Besuches verläuft – abgesehen von einer kurzen Kaffeepause – ereignislos. Wir verlassen die Anlage mit einem guten Gefühl.
 
