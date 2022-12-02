@@ -19,7 +19,7 @@ Solche gängigen Medikamente muss Lea Läderach heute nicht mehr selbst richten.
 {{<box title="Lea Läderach und die Alters- und Pflegeheim Landblick AG">}}\
 Lea Läderach (25) ist Abteilungsleiterin im Alters- und Pflegeheim Landblick in Beitenwil. Als solche koordiniert sie die Mitarbeiterinnen des Hauses A. Das sind 21 Frauen, darunter lernende und ausgebildete Fachfrauen Gesundheit (FaGe), Betagtenbetreuerinnen, Pflegeassistentinnen, Assistenzpersonal und eine Praktikantin. Lea Läderach hat im Alters- und Pflegeheim Sunneguet in Seftigen die Lehre als FaGe gemacht und arbeitet seither in der Pflege. Sie hat Praktika in der Spitex Wichtrach und im Salem Spital absolviert. Nach dem Abschluss der Ausbildung zur diplomierten Pflegefachfrau kam sie zur Landblick AG. Sie arbeitete zwei Jahre in Grosshöchstetten, seit Oktober 2022 arbeitet sie als Abteilungsleiterin in Beitenwil.
 
-Zur Landblick AG gehören zwei Alters- und Pflegeheime an den Standorten Grosshöchstetten und Beitenwil. Die Heime umfassen insgesamt 122 Einzelbetten und 160 Mitarbeiter*innen. Die schönen Aussichten auf das Kiesen- und Aaretal geben den Heimen ihren Namen. Der Standort Beitenwil hat zwei Häuser. Im Haus A, dem Teil des Heimes den wir besucht haben, leben auf zwei Stockwerken 25 Menschen.
+Zur Landblick AG gehören zwei Alters- und Pflegeheime an den Standorten Grosshöchstetten und Beitenwil. Die Heime umfassen insgesamt 122 Einzelbetten und 160 Mitarbeiter*innen. Die schönen Aussichten auf das Kiesen- und Aaretal geben ihnen ihren Namen. Der Standort Beitenwil hat zwei Häuser. Im Haus A, dem Teil des Heimes den wir besucht haben, leben auf zwei Stockwerken 25 Menschen.
 
 {{</box>}}
 
