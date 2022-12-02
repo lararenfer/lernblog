@@ -63,8 +63,7 @@ Wenn Menschen im Alter Hilfe brauchen, ist das Altersheim nicht die einzige Mög
 
 ![Die Aussicht vom Balkon des Hauses A. Foto: Enya Hebeisen](rsz_20221006_145302.jpg)
 
-Sobald alle Bewohnerinnen und Bewohner, die an der Aktivierung teilnahmen, wieder in ihren Zimmern sind, kehrt auf der Abteilung Ruhe ein. Es ist eine gemütliche und zufriedene Atmosphäre. Die letzte halbe Stunde unseres Besuches verläuft – abgesehen von einer kurzen Kaffeepause – ereignislos. Wir verlassen die Anlage mit einem guten Gefühl.
-
+Sobald alle Bewohnerinnen und Bewohner, die an der Aktivierung teilnahmen, wieder in ihren Zimmern sind, kehrt auf der Abteilung Ruhe ein. Es ist eine gemütliche und zufriedene Atmosphäre. Die letzte halbe Stunde unseres Besuches verläuft – abgesehen von einer kurzen Kaffeepause – ereignislos. Wir verlassen die Anlage mit einem guten Gefühl.\
 Die Bewohnerinnen und Bewohner des Hauses A leben in gemütlichen Zimmern mit schöner Aussicht. Das Pflegepersonal ist freundlich und hat immer etwas Zeit übrig, um mit den Bewohnerinnen und Bewohnern zu reden. Auch die Hauskatze Simba, die selbst nicht mehr die Jüngste ist, hilft mit, eine Atmosphäre der Ruhe und Behaglichkeit zu schaffen.
 
 Text: Lara Renfer
