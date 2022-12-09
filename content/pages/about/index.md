@@ -1,13 +1,13 @@
 +++
 title = "About me"
 draft = false
-description = ""
 image = ""
+description = ""
 +++
-![](/img/default-author.jpg)
+![](portrait-cv-2-.jpg)
 
-## My Name
+## Lara Renfer
 
-mail@example.org
+lara.renfer@mygymer.ch
 
-Here should be some info about me...
+Schülerin der Klasse M24d
