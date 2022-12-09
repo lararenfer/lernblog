@@ -3,7 +3,7 @@ title = "Unterwegs im Altersheim"
 date = "2022-11-28"
 draft = false
 pinned = false
-tags = ["Altersheim", "Pflege", "Reportage"]
+tags = ["Altersheim", "Pflege", "Reportage", "Deutsch"]
 image = "rsz_1rsz_320221006_141659.jpg"
 description = "Wir begleiten Lea Läderach einen Nachmittag lang in ihrem Arbeitsalltag als diplomierte Pflegefachfrau und Abteilungsleiterin."
 +++
